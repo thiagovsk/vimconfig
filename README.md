@@ -5,7 +5,7 @@ my vim configurations
 
 - Based in https://github.com/lappis-tools/lappis_vimrc
 - Added some plugins like nerdTREE, controlp, snippets and rails/ruby plugins
-- List :
+- List (links after) :
   - airline
   - flake8
   - nerdtre 
@@ -35,4 +35,5 @@ my vim configurations
 # Install
 
 $ git clone https://github.com/thiagovsk/vimconfig
+
 $ ./install.sh
