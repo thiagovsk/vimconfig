@@ -15,6 +15,7 @@ syntax on
 
 " remove whitespaces after save
 autocmd BufWritePre *.rb :%s/\s\+$//e
+autocmd BufWritePre *.js :%s/\s\+$//e
 
 " controlp options
 let g:ctrlp_map = '<c-p>'
